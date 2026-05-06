@@ -94,18 +94,6 @@ Raw JSON Data → Python (Ingestion & Transformation) → Pandas (Cleaning) → 
 
 ---
 
-## 📁 Project Structure
-
-```
-project/
-│
-├── data/                  # Raw JSON files
-├── scripts/               # Python scripts
-├── database/              # SQLite database file
-├── output/                # Cleaned CSV data
-├── dashboard/             # Tableau / Power BI files
-└── README.md
-```
 
 ---
 
